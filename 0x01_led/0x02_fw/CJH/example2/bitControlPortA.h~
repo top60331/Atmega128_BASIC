@@ -1,0 +1,21 @@
+#ifndef _BOARD_INIT_H_
+#define _BOARD_INIT_H_
+
+#define SET 1
+#define CLR 0
+
+
+typedef WORD unsigned int;
+
+typedef enum {
+PORTA,
+PORTB,
+PORTC,
+PORTD
+}PORT_SEL;
+
+
+void bitControlPort (PORT_SEL port, WORD pin, WORD time_delay)
+
+
+#endif /* _BOARD_INIT_H_ */

@@ -1,0 +1,9 @@
+// portA control
+
+#include <mega128.h>
+
+
+void bitControlPoartA (PORT_SEL port, WORD pin, WORD time_delay)
+{
+
+}
