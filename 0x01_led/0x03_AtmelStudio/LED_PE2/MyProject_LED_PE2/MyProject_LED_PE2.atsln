@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MyProject_LED_PE2", "MyProject_LED_PE2\MyProject_LED_PE2.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TC_TIMEOUT_EXAMPLE11", "TC_TIMEOUT_EXAMPLE11\TC_TIMEOUT_EXAMPLE11.cproj", "{8ABA3CD1-80AD-4DF9-B535-9FC000748F8F}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "inputOutput", "D:\Atmega128_GPIO\fw\inputOutput\inputOutput.cproj", "{DFF765AA-8721-4D30-8325-DEBDD20E4EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{8ABA3CD1-80AD-4DF9-B535-9FC000748F8F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8ABA3CD1-80AD-4DF9-B535-9FC000748F8F}.Debug|AVR.Build.0 = Debug|AVR
+		{8ABA3CD1-80AD-4DF9-B535-9FC000748F8F}.Release|AVR.ActiveCfg = Release|AVR
+		{8ABA3CD1-80AD-4DF9-B535-9FC000748F8F}.Release|AVR.Build.0 = Release|AVR
+		{DFF765AA-8721-4D30-8325-DEBDD20E4EE5}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DFF765AA-8721-4D30-8325-DEBDD20E4EE5}.Debug|AVR.Build.0 = Debug|AVR
+		{DFF765AA-8721-4D30-8325-DEBDD20E4EE5}.Release|AVR.ActiveCfg = Release|AVR
+		{DFF765AA-8721-4D30-8325-DEBDD20E4EE5}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
